@@ -26,7 +26,6 @@ body {
 }
 
 header {
-    /*height: 102px;*/
     border-bottom: 1px solid rgba(188, 188, 188, 0.5);
 }
 
@@ -86,10 +85,6 @@ header .menu .item:last-child {
 
 }
 
-.content .main {
-    /*margin-top: 147px;*/
-}
-
 .content .main .text {
     background-image: linear-gradient(to right, #ffffff, #fdc5c5, #ff0000);
     background-size: 100%;
@@ -135,7 +130,6 @@ header .menu .item:last-child {
 
 .extra-info {
     max-width: 400px;
-    /*margin-top: 136px;*/
     display: flex;
     flex-wrap: wrap;
 }
@@ -143,7 +137,6 @@ header .menu .item:last-child {
 .extra-info .item {
     height: 185px;
     width: 185px;
-    /*border: 1px solid rgba(0, 97, 255, 0.5);*/
     display: flex;
     flex-direction: column;
     align-items: center;
